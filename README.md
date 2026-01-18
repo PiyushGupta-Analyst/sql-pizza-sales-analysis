@@ -59,6 +59,7 @@ These tables are connected using primary and foreign keys.
 ## 📁 Repository Contents
 - `pizza_sales_queries.sql` – contains all SQL queries used in the analysis
 - `README.md` – project documentation
+- dataset/` – contains the CSV files used for analysis
 
 ---
 
